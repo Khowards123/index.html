@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">      
+        <link href="style.css" rel="stylesheet" type="style/css">
+    </head>
+    <body>
+      <center>
+                <img src="https://media.tenor.com/a_t_D2lPn8AAAAAM/kermit-the.gif" height="200px" width="200px;" style="display-block; margin-auto">
+      </center>
+        <center>
+            <i>Tangina Mo Tayo Nalang Kasi</i>
+        </center>
+        <script>
+            alert("WARNING!")   
+            alert("What if?")
+            alert("I told that I've fallen?")
+            alert("Hiiiii")
+            alert("alam mo ba para saan toh?") 
+            alert("Ofc hindi, kimi lang") 
+            alert("Ok seryoso na this time ")
+            alert("hehehehehehehehe")
+            alert("I know na matagal ka nang nanliligaw and You've proven na ready ka mag wait")
+            alert(" sooooooooooo...")
+            alert(" I just wanted to tell you na...")
+            alert(" Sinasagot na kita 💙") 
+            alert(" heheheheheeh ik na alam mo na toh pero still") 
+            alert("I love you always hehehehe💙") 
+
+
+        </script>
+    </body>
+</html>
